@@ -10,10 +10,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software
+What things you need to install the software:
 
-```
+
 [deployd](http://deployd.com/)
-```
+
 
 ### Installing
