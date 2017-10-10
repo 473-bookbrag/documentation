@@ -12,11 +12,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software:
 
-```
 [deployd](http://deployd.com/)
+
 [node.js](https://nodejs.org/en/download/)
+
 [browser-sync](https://www.browsersync.io/)
-```
 
 ### Installing
 
