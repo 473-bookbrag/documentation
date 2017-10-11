@@ -12,9 +12,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software:
 
-* [deployd](http://deployd.com/) - description
-* [node.js](https://nodejs.org/en/download/) - description
-* [browser-sync](https://www.browsersync.io/) - description
+* [deployd](http://deployd.com/) - open source platform to build API
+* [node.js](https://nodejs.org/en/download/) - an open-source JavaScript run-time environment for executing JavaScript code server-side
+* [browser-sync](https://www.browsersync.io/) - browser testing
 
 ### Installing
 
