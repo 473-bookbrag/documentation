@@ -24,6 +24,8 @@ $ dpd create <project>
 $ cd <project>
 ```
 
+Import all files into <project> directory
+
 ## Deployment
 
 ```
