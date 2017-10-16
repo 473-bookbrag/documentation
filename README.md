@@ -37,7 +37,7 @@ $ dpd --mongod "<PATH>MongoDB\Server\3.4\bin\mongod.exe" -d
 ```
 once loaded find the "open" label on the top right corner
 <br>
-<img height="60" src="https://github.com/473-bookbrag/documentation/blob/master/documentation/Open.JPG">
+<img height="30" src="https://github.com/473-bookbrag/documentation/blob/master/documentation/Open.JPG">
 <br>
 
 
