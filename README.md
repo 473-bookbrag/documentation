@@ -24,7 +24,7 @@ $ dpd create <project>
 $ cd <project>
 ```
 
-Import all files into <project> directory
+Import all files into <project> directory and replace all
 
 ## Deployment
 
@@ -35,7 +35,8 @@ if MongoDB is not install in the same directory of your Deployd:
 ```
 $ dpd --mongod "<PATH>MongoDB\Server\3.4\bin\mongod.exe" -d
 ```
-
+once loaded find the "open" label on the top right corner
+![alt text](https://github.com/473-bookbrag/documentation/Open.jpg)
 
 
 ## Acknowledgments
