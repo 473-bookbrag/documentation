@@ -36,7 +36,8 @@ if MongoDB is not install in the same directory of your Deployd:
 $ dpd --mongod "<PATH>MongoDB\Server\3.4\bin\mongod.exe" -d
 ```
 once loaded find the "open" label on the top right corner
-![alt text](https://github.com/473-bookbrag/documentation/blob/master/Open.JPG)
+
+![alt text](https://github.com/473-bookbrag/documentation/blob/master/documentation/Open.JPG)
 
 
 ## Acknowledgments
