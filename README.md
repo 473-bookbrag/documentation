@@ -20,8 +20,10 @@ What things you need to install the software:
 Go to the base directory of your Deployd and create a new project folder:
 
 ```
-$ dpd create <project>
-$ cd <project>
+$ git clone git@github.com:473-bookbrag/deployd-app
+$ cd deployd-app
+$ npm install deployd
+$ npm link
 ```
 
 Import all files into <project> directory and replace all
@@ -35,9 +37,14 @@ if MongoDB is not install in the same directory of your Deployd:
 ```
 $ dpd --mongod "<PATH>MongoDB\Server\3.4\bin\mongod.exe" -d
 ```
-once loaded http://localhost:2403/dashboard/ click the "open" label on the top right corner
+once loaded the browser will open up a page with link:http://localhost:2403/dashboard/ 
+click the "open" label on the top right corner
 <br>
 <img height="40" src="https://github.com/473-bookbrag/documentation/blob/master/documentation/Open.JPG">
+<br>
+the browser will open up a new page that look like this
+<br>
+<img height="100 src="https://github.com/473-bookbrag/documentation/blob/master/documentation/FrontPage.JPG">
 <br>
 
 ## Authors
