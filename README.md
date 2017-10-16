@@ -44,7 +44,7 @@ click the "open" label on the top right corner
 <br>
 the browser will open up a new page that look like this
 <br>
-<img height="100 src="https://github.com/473-bookbrag/documentation/blob/master/documentation/FrontPage.JPG">
+<img height="100" src="https://github.com/473-bookbrag/documentation/blob/master/documentation/FrontPage.JPG">
 <br>
 
 ## Authors
