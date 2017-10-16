@@ -35,10 +35,20 @@ if MongoDB is not install in the same directory of your Deployd:
 ```
 $ dpd --mongod "<PATH>MongoDB\Server\3.4\bin\mongod.exe" -d
 ```
-once loaded find the "open" label on the top right corner
+once loaded http://localhost:2403/dashboard/ click the "open" label on the top right corner
 <br>
 <img height="40" src="https://github.com/473-bookbrag/documentation/blob/master/documentation/Open.JPG">
 <br>
 
+## Authors
+
+* DanielSollis - Daniel Sollis
+* jasonhan0426 - Jason Han
+* Kazander95 - Kazander Antonio
+* philipchungtech - Philip Chung
+* shelleypham - Shelley Pham
 
 ## Acknowledgments
+
+* [dpd-fileupload](https://www.npmjs.com/package/dpd-fileupload)
+
