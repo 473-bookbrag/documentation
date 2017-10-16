@@ -38,13 +38,14 @@ if MongoDB is not install in the same directory of your Deployd:
 $ dpd --mongod "<PATH>MongoDB\Server\3.4\bin\mongod.exe" -d
 ```
 once loaded the browser will open up a page with link:http://localhost:2403/dashboard/ 
+
 click the "open" label on the top right corner
 <br>
 <img height="40" src="https://github.com/473-bookbrag/documentation/blob/master/documentation/Open.JPG">
 <br>
 the browser will open up a new page that look like this
 <br>
-<img height="200" src="https://github.com/473-bookbrag/documentation/blob/master/documentation/FrontPage.JPG">
+<img height="300" src="https://github.com/473-bookbrag/documentation/blob/master/documentation/FrontPage.JPG">
 <br>
 
 ## Authors
