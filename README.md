@@ -51,4 +51,4 @@ once loaded http://localhost:2403/dashboard/ click the "open" label on the top r
 ## Acknowledgments
 
 * [dpd-fileupload](https://www.npmjs.com/package/dpd-fileupload)
-
+* [fancybox](https://github.com/fancyapps/fancybox)
