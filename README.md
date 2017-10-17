@@ -23,7 +23,6 @@ Go to the base directory of your Deployd and create a new project folder:
 $ git clone git@github.com:473-bookbrag/deployd-app
 $ cd deployd-app
 $ npm install
-$ npm link
 ```
 
 Import all files into <project> directory and replace all
