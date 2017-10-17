@@ -14,6 +14,7 @@ What things you need to install the software:
 
 * [deployd](http://deployd.com/) - open source platform to build API
 * [node.js](https://nodejs.org/en/download/) - an open-source JavaScript run-time environment for executing JavaScript code server-side
+* [mongodb](https://www.mongodb.com/) - atlas database as a server
 
 ### Installing
 
