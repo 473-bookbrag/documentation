@@ -50,13 +50,13 @@ the browser will open up a new page that look like this
 <br>
 <img height="250" src="https://github.com/473-bookbrag/documentation/blob/master/documentation/Screen%20Shot%202017-10-16%20at%206.17.30%20PM.png">
 <br>
-when click on "Post a Book", a pop-up will be shown like this
-<br>
-<img height="400" src="https://github.com/473-bookbrag/documentation/blob/master/documentation/PostBook.JPG">
-<br>
-same with "Post a Bookshelf"
+when click on "Post a Bookshelf", a pop-up will be shown like this
 <br>
 <img height="300" src="https://github.com/473-bookbrag/documentation/blob/master/documentation/PostShelf.JPG">
+<br>
+same with "Post a book" (bookshelf needed in order to post a book
+<br>
+<img height="400" src="https://github.com/473-bookbrag/documentation/blob/master/documentation/PostBook.JPG">
 <br>
 when you click on "Login" on the up right corner, it will take you to a new page
 <br>
