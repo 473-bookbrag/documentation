@@ -62,11 +62,11 @@ when click on "Login", it will take you to a new page like this
 
 ## Authors
 
-* DanielSollis - Daniel Sollis
-* jasonhan0426 - Jason Han
-* Kazander95 - Kazander Antonio
-* philipchungtech - Philip Chung
-* shelleypham - Shelley Pham
+* [DanielSollis](https://github.com/DanielSollis) - Daniel Sollis
+* [jasonhan0426](https://github.com/jasonhan0426) - Jason Han
+* [Kazander95](https://github.com/Kazander95) - Kazander Antonio
+* [philipchungtech](https://github.com/philipchungtech) - Philip Chung
+* [shelleypham](https://github.com/shelleypham) - Shelley Pham
 
 ## Acknowledgments
 
