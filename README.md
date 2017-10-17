@@ -53,7 +53,7 @@ the browser will open up a new page that look like this
 <br>
 when click on "Post a Book", a pop-up will be shown like this
 <br>
-<img height="300" src="https://github.com/473-bookbrag/documentation/blob/master/documentation/PostBook.JPG">
+<img height="400" src="https://github.com/473-bookbrag/documentation/blob/master/documentation/PostBook.JPG">
 <br>
 same with "Post a Bookshelf"
 <br>
