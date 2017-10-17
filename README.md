@@ -37,7 +37,7 @@ if MongoDB is not install in the same directory of your Deployd:
 ```
 $ dpd --mongod "<PATH>MongoDB\Server\3.4\bin\mongod.exe" -d
 ```
-once loaded the browser will open up a page with link:http://localhost:2403/dashboard/ 
+once loaded the browser will open up a page with link: http://localhost:2403/dashboard/ 
 
 the data store in deployd can be found here
 <br>
