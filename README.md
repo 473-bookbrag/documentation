@@ -60,7 +60,7 @@ same with "Post a Bookshelf"
 <br>
 when you click on "Login" on the up right corner, it will take you to a new page
 <br>
-<img height="300" src="https://github.com/473-bookbrag/documentation/blob/master/documentation/Login.JPG">
+<img height="180" src="https://github.com/473-bookbrag/documentation/blob/master/documentation/Login.JPG">
 <br>
 
 ## Authors
