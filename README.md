@@ -1,4 +1,4 @@
-# CPSC 473 Project 1
+# Book Brager!
 
 ## Description
 
