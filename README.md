@@ -40,7 +40,7 @@ once loaded the browser will open up a page with link: http://localhost:2403/das
 
 the data store in deployd can be found here
 <br>
-<img height="400" src="https://github.com/473-bookbrag/documentation/blob/master/documentation/Screen%20Shot%202017-10-16%20at%206.19.12%20PM.png">
+<img height="400" src="https://github.com/473-bookbrag/documentation/blob/master/documentation/Screen%20Shot%202017-10-16%20at%207.35.09%20PM.png">
 <br>
 click the "open" label on the top right corner
 <br>
