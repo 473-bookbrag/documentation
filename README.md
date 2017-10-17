@@ -54,7 +54,7 @@ when click on "Post a Bookshelf", a pop-up will be shown like this
 <br>
 <img height="300" src="https://github.com/473-bookbrag/documentation/blob/master/documentation/PostShelf.JPG">
 <br>
-same with "Post a book" (bookshelf needed in order to post a book
+same with "Post a book" (bookshelf needed in order to post a book)
 <br>
 <img height="400" src="https://github.com/473-bookbrag/documentation/blob/master/documentation/PostBook.JPG">
 <br>
