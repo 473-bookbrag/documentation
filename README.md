@@ -39,6 +39,10 @@ $ dpd --mongod "<PATH>MongoDB\Server\3.4\bin\mongod.exe" -d
 ```
 once loaded the browser will open up a page with link:http://localhost:2403/dashboard/ 
 
+the data store in deployd can be found here
+<br>
+<img height="250" src="https://github.com/473-bookbrag/documentation/blob/master/documentation/Screen%20Shot%202017-10-16%20at%206.19.12%20PM.png">
+<br>
 click the "open" label on the top right corner
 <br>
 <img height="40" src="https://github.com/473-bookbrag/documentation/blob/master/documentation/Open.JPG">
