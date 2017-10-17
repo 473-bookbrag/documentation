@@ -4,6 +4,14 @@
 
 This provide provides basic function of web application for Professors to brag about the contents of their bookshelves
 
+## Authors
+
+* [DanielSollis](https://github.com/DanielSollis) - Daniel Sollis
+* [jasonhan0426](https://github.com/jasonhan0426) - Jason Han
+* [Kazander95](https://github.com/Kazander95) - Kazander Antonio
+* [philipchungtech](https://github.com/philipchungtech) - Philip Chung
+* [shelleypham](https://github.com/shelleypham) - Shelley Pham
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -67,15 +75,6 @@ same with "Post a book" (bookshelf needed in order to post a book)
 <br>
 <img height="400" src="https://github.com/473-bookbrag/documentation/blob/master/documentation/PostBook.JPG">
 <br>
-
-
-## Authors
-
-* [DanielSollis](https://github.com/DanielSollis) - Daniel Sollis
-* [jasonhan0426](https://github.com/jasonhan0426) - Jason Han
-* [Kazander95](https://github.com/Kazander95) - Kazander Antonio
-* [philipchungtech](https://github.com/philipchungtech) - Philip Chung
-* [shelleypham](https://github.com/shelleypham) - Shelley Pham
 
 ## Acknowledgments
 
