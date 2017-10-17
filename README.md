@@ -45,7 +45,7 @@ click the "open" label on the top right corner
 <br>
 the browser will open up a new page that look like this
 <br>
-<img height="250" src="https://github.com/473-bookbrag/documentation/blob/master/documentation/FrontPage.JPG">
+<img height="250" src="https://github.com/473-bookbrag/documentation/blob/master/documentation/Screen%20Shot%202017-10-16%20at%206.17.30%20PM.png">
 <br>
 when click on "Post a Book", a pop-up will be shown like this
 <br>
